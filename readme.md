@@ -6,6 +6,5 @@
 - 35effect & 3attack :如果是破裂詞，為一條固定，從魔法到稀有皆為少一詞，判斷方式不同。<br>
 
 ### 測試影片:<br>
-<video src="./POE_OCR_video.mp4" controls width="">
-  您的瀏覽器不支援影片標籤。
-</video>
+https://github.com/user-attachments/assets/42759248-e953-461c-b4a4-261030abe44c
+
