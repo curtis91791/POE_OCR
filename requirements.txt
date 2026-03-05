@@ -1,0 +1,6 @@
+#python 3.12.9
+pytesseract
+opencv-python	
+pyautogui
+numpy
+keyboard
